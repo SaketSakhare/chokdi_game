@@ -1,6 +1,6 @@
 # chokdi_game
 
-# python games.py
+# To run the program : python games.py
 Trump suit for this game is DIAMOND
 
 Cards dealt to player 1
